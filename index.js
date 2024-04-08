@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Polaroid Customes"];
+const statusMessages = ["Active Discord Developer Badge ready for claim!"];
 
 
 let currentIndex = 0;
