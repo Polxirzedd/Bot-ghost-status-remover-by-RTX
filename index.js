@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Polxrizedd Bot Hub"];
+const statusMessages = ["State of NSW"];
 
 
 let currentIndex = 0;
