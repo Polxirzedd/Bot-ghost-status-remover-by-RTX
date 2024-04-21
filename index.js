@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["State of NSW"];
+const statusMessages = ["Watching State of NSW"];
 
 
 let currentIndex = 0;
