@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Transport NSW"];
+const statusMessages = ["Watching Infinity Tech"];
 
 
 let currentIndex = 0;
