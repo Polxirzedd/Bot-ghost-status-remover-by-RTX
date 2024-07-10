@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💮 Managing ILE Customs!"];
+const statusMessages = ["Watching Dfain's arse"];
 
 
 let currentIndex = 0;
