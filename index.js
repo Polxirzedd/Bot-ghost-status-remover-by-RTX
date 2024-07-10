@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Infinity Tech"];
+const statusMessages = ["💮 Managing ILE Customs!"];
 
 
 let currentIndex = 0;
